@@ -3,7 +3,7 @@
     <img src=".docs/preview.png" alt="Aperçu du site Camping">  
   </a>  
   </br></br>  
-  <h3 align="center">🏕️ Animation de Fond – Événements Camping</h3>  
+  <h3 align="center">🏕️ Animation de Fond &nbsp;–&nbsp; Événements Camping</h3>  
 </div>
 
 ## <br /> 📌 Sommaire
@@ -15,27 +15,26 @@
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
-Landing page immersive sur le thème du camping avec GSAP, éléments visuels animés, design naturel et navigation responsive.  
-Parfait pour promouvoir des événements ou lieux de camping de façon moderne et engageante.
+Landing page immersive sur le thème du camping, alliant animations **GSAP**, éléments visuels dynamiques et design naturel. L’interface responsive s’adapte à tous les écrans pour une expérience fluide et moderne.
 
-Chaque section évoque l’expérience plein air à travers des visuels forestiers et des animations subtiles.
+Idéale pour mettre en valeur des lieux ou événements liés au camping, chaque section évoque l’esprit plein air à travers des visuels forestiers et des animations subtiles.
 
 ## <br /> <a name="technologies">🛠️ Technologies</a>
 
 - HTML5 sémantique et accessible
-- CSS3 moderne (variables, media queries, animations)
-- JavaScript ES6
-- [GSAP](https://greensock.com/gsap/) pour les animations
-- Remix Icons pour les icônes
+- CSS3 moderne avec variables, media queries et animations
+- JavaScript ES6 clair et modulaire
+- [GSAP](https://greensock.com/gsap/) pour les animations fluides
+- [Remix Icons](https://remixicon.com/) pour les icônes vectorielles
 
 ## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
 
-- Animations GSAP sur les éléments clés (texte, oiseaux, images)
+- Animations GSAP sur les éléments clés
 - Effet d’apparition fluide et séquentiel
 - Blocs visuels superposés et positionnés dynamiquement
 - Menu responsive avec bouton toggle
-- Effet visuel de fond lors du scroll (ombre header)
-- Boutons Connexion / Inscription animés
+- Scroll header animé via une ombre dynamique
+- Boutons Connexion et Inscription animés
 - Design responsive 100% mobile-first
 - Navigation fluide vers les sections
 
